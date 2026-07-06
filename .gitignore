@@ -1,0 +1,5 @@
+*.geojson
+NY/
+NJ/
+nation_wide/
+geographies.geojson
